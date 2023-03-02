@@ -1,0 +1,11 @@
+G:\Study\Code_projects_1course\Loan\LoanHelper\bin\Debug\LoanHelper.exe.config
+G:\Study\Code_projects_1course\Loan\LoanHelper\bin\Debug\LoanHelper.exe
+G:\Study\Code_projects_1course\Loan\LoanHelper\bin\Debug\LoanHelper.pdb
+G:\Study\Code_projects_1course\Loan\LoanHelper\obj\Debug\LoanHelper.csproj.AssemblyReference.cache
+G:\Study\Code_projects_1course\Loan\LoanHelper\obj\Debug\LoanHelper.csproj.SuggestedBindingRedirects.cache
+G:\Study\Code_projects_1course\Loan\LoanHelper\obj\Debug\LoanHelper.Form1.resources
+G:\Study\Code_projects_1course\Loan\LoanHelper\obj\Debug\LoanHelper.Properties.Resources.resources
+G:\Study\Code_projects_1course\Loan\LoanHelper\obj\Debug\LoanHelper.csproj.GenerateResource.cache
+G:\Study\Code_projects_1course\Loan\LoanHelper\obj\Debug\LoanHelper.csproj.CoreCompileInputs.cache
+G:\Study\Code_projects_1course\Loan\LoanHelper\obj\Debug\LoanHelper.exe
+G:\Study\Code_projects_1course\Loan\LoanHelper\obj\Debug\LoanHelper.pdb
